@@ -1,0 +1,38 @@
+﻿type name(parameters)
+{
+	....
+	group-of-statements;
+	....
+}
+
+int function(paramters)
+{
+	if(parameter < 0)return 0;
+	....
+	group-of-statements;
+	....
+	return result;
+}
+void function()
+{
+	...
+	if(четотам_произошло)return;
+	...
+}
+
+type - тип возвращаемого значения. 
+Это может быть любой существующий тип данных:
+int, char, bool, double......
+void - пустотаю.
+
+return(вернуть) 
+(value)
+
+return value;
+return;
+
+--------------------------------
+name - имя функции. идентификаторы
+identifier - это имя.
+--------------------------------
+parameters - принимаемые параметры функции.
